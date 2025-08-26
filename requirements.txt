@@ -1,6 +1,6 @@
-streamlit
-pandas
+streamlit==1.30.0
+pandas==2.0.3
 plotly
 Pillow
-folium
-streamlit-folium
+folium==0.14.0
+streamlit-folium==0.18.0
